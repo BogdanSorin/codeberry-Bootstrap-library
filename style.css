@@ -24,4 +24,5 @@ h3 {
 .title, .btn {
   margin-bottom: 10px;
   white-space: nowrap;
+  display: inline-block;
 }
